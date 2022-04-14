@@ -9,3 +9,4 @@ in site percolation order parameter and entropy calculation, ptr is used for bon
 
 boltzmann.cpp is for measuring boltzmann entropy for bond percolation.
 bond_nsdf.cpp is for measuring cluster size distribution at critical point and fractal dimension of the percolating cluster for bond_percolation
+secondlargest.cpp is for measuring second largest cluster size for bond percolation(regular and explosive).
